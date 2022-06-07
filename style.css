@@ -1,0 +1,73 @@
+body {
+  background-image: url("img/sea-edge-79ab30e2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 120%;
+  width: 700px;
+}
+
+.name{
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.text {
+    color:white;
+    font-size: 20px;
+    width: 800px;
+    height: 50px;
+    position: absolute;
+    right: 300px;
+    top: 150px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.more{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: 2px;
+}
+
+.mainpart{
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    right: 25px;
+    top: 50px;
+}
+
+.foto{
+    margin-top: 100px;
+    border: 5px solid rgb(76, 2, 173);
+}
+
+.vardas {
+    color: white;
+}
+
+.links{
+    position:relative;
+    left: 1200px;
+}
+
+.btn {
+    color: #4267B2;
+    background-color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.btn2 {
+    color: #DD2A7B;
+    background-color: #add8e6;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+}
